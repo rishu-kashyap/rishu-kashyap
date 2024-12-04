@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Rishu Kashyap (@rishu-kashyap)
+- 👀 I’m interested in exploring new technologies, open-source contributions, and solving challenging problems
+- 🌱 I’m currently learning [HTML, CSS, JS, C, C++]
+- 💞️ I’m looking to collaborate on exciting projects in [Web Development, AI/ML, Data Science].
+- 📫 How to reach me: [rishu7320@gmail.com].
+- 😄 Pronouns: [he/him].
+- ⚡ Fun fact: [love solving puzzles!" or "I can code and cook simultaneously!"].
