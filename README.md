@@ -224,6 +224,7 @@ open_to:
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](mailto:risikjha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://github.com/rishu-kashyap)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://leetcode.com/u/Rishu_kumar_23/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://www.linkedin.com/in/rishu-kumar-711319274)
 
 </div>
 
